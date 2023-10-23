@@ -1,4 +1,4 @@
-# lamp-fedora
+#!/bin/bash
 
 sudo dnf update
 
